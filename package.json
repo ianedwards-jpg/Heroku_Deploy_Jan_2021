@@ -1,18 +1,22 @@
 {
   "name": "heroku-deploy-jan-2021",
   "version": "1.0.0",
-  "description": "",
+  "description": "Heroku Test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+  
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ianedwards-jpg/Heroku_Deploy_Jan_2021.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ian",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ianedwards-jpg/Heroku_Deploy_Jan_2021/issues"
   },
