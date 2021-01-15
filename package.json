@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "Heroku Test",
   "main": "index.js",
+  "engines": {
+    "npm": "6.x",
+    "node": "14.x"
+  },
   "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
-  
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
